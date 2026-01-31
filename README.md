@@ -11,13 +11,6 @@ The goal of this project is to demonstrate a code-level understanding of the mec
 
 ---
 
-## 🏗️ Architecture Overview
-
-The Transformer uses an Encoder-Decoder structure. Unlike RNNs, it processes the entire sequence simultaneously, allowing for massive parallelization.
-
-![Transformer Architecture](https://i.sstatic.net/67ADh.png)
-
----
 
 ## 🧠 Key Mechanisms Implemented
 
