@@ -57,5 +57,6 @@ This repository is for educational purposes. The images used in this README are 
 * [Masked Attention](https://media.licdn.com/dms/image/v2/D5622AQGYdJMGMXXrSw/feedshare-shrink_800/feedshare-shrink_800/0/1729013988538?e=2147483647&v=beta&t=WaXZcx7I0cn2wWBGsh0bVwCTIXtAC2qS7UDxPe0_IiM)
 * [Layer Normalization](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy2P5d_C3gDymn8nsveeeuwu8mx3sRe1Zq5h-3gLoLKpmlzyl)
 * [Positional Encoding](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxebeKGxo8-hv8PSsSYFAeI8AL6bUnuyZkN2NDZh1zqTPd8C-S)
+
 **Reference Paper:**
 * Vaswani, A., et al. (2017). [Attention Is All You Need](https://arxiv.org/abs/1706.03762). 31st Conference on Neural Information Processing Systems (NIPS 2017), Long Beach, CA, USA.
